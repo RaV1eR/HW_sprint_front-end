@@ -783,6 +783,9 @@ body{
 .Profession{
   padding: 0 15px; 
 }
+.Profession__title{
+  width: auto;
+}
 .Profession__text{
   width: auto;
   height: auto;
